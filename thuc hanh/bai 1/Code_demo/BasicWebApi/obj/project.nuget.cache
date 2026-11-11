@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eqT/gK8KA8=",
+  "success": true,
+  "projectFilePath": "d:\\PHAT TRIEN UNG DUNG PHAN TAN\\thuc hanh\\bai 1\\Code_demo\\BasicWebApi\\BasicWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vi Thi Ha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\Vi Thi Ha\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

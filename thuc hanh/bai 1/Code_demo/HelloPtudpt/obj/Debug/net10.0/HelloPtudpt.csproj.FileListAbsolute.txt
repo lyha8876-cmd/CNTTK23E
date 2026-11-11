@@ -1,0 +1,14 @@
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.exe
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.deps.json
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.runtimeconfig.json
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.dll
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.pdb
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.AssemblyInfoInputs.cache
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.AssemblyInfo.cs
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.csproj.CoreCompileInputs.cache
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.dll
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\refint\HelloPtudpt.dll
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.pdb
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.genruntimeconfig.cache
+D:\PHAT TRIEN UNG DUNG PHAN TAN\thuc hanh\bai 1\Code_demo\HelloPtudpt\obj\Debug\net10.0\ref\HelloPtudpt.dll

@@ -1,0 +1,21 @@
+﻿### 1. Test GET trang chủ
+GET http://localhost:5081/
+
+### 2. Test GET hello kèm ngôn ngữ tiếng Anh
+GET http://localhost:5081/hello/An?language=en
+
+### 3. Test POST tạo lời chào thành công (Hợp lệ)
+POST http://localhost:5081/greetings
+Content-Type: application/json
+
+{
+    "name": "Binh"
+}
+
+### 4. Test POST với tên rỗng (Gây lỗi 400 Bad Request)
+POST http://localhost:5081/greetings
+Content-Type: application/json
+
+{
+    "name": ""
+}
